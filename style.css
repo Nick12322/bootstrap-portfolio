@@ -1,0 +1,67 @@
+#nicholas {
+    color: #ffffff;
+    background-color: #4aaaa5
+}
+
+body {
+    background-image: url(Images/sun-pattern.png)
+}
+
+#about {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    margin-top: 25px;
+}
+
+h1 {
+    color: #4aaaa5;
+    border-bottom: 2px solid grey;
+}
+
+#img {
+    height: 200px;
+}
+
+#footer {
+    margin-left: 47%;
+}
+
+#input {
+    background-color: #ffffff;
+    margin-top: 50px;
+
+}
+
+#portfolioImages {
+    background-color: #ffffff;
+    margin-top: 50px;
+    padding-bottom: 75px;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.pimg {
+    padding-bottom: 20px;
+}
+
+.caption.center-block.mx-auto {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-left: 15px !important;
+}
+
+#navbarbot {
+    margin-top: 10px;
+}
