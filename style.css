@@ -22,9 +22,6 @@ h1 {
     height: 200px;
 }
 
-#footer {
-    margin-left: 47%;
-}
 
 #input {
     background-color: #ffffff;
@@ -66,3 +63,6 @@ h1 {
     margin-top: 10px;
 }
 
+#footer {
+    text-align: center !important;
+}
