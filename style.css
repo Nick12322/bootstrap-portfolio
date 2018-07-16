@@ -7,21 +7,16 @@ body {
     background-image: url(Images/sun-pattern.png)
 }
 
-#about {
+/* #about {
     background-color: #ffffff;
     padding-bottom: 200px;
     margin-top: 25px;
-}
+} */
 
 h1 {
     color: #4aaaa5;
     border-bottom: 2px solid grey;
 }
-
-#img {
-    height: 200px;
-}
-
 
 #input {
     background-color: #ffffff;
@@ -65,4 +60,15 @@ h1 {
 
 #footer {
     text-align: center !important;
+}
+
+
+#about-me {
+    background-color: white;
+    margin-top: 5%;
+}
+
+#selfie {
+    height: 200px;
+    width: 200px;
 }
