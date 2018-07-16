@@ -1,4 +1,4 @@
-#nicholas {
+ #nicholas {
     color: #ffffff;
     background-color: #4aaaa5
 }
@@ -7,11 +7,9 @@ body {
     background-image: url(Images/sun-pattern.png)
 }
 
-/* #about {
+ #about {
     background-color: #ffffff;
-    padding-bottom: 200px;
-    margin-top: 25px;
-} */
+}
 
 h1 {
     color: #4aaaa5;
@@ -21,7 +19,6 @@ h1 {
 #input {
     background-color: #ffffff;
     margin-top: 50px;
-
 }
 
 #portfolioImages {
@@ -34,12 +31,14 @@ h1 {
     position: relative;
 }
 
+
 .caption {
     position: absolute;
     top: 45%;
     left: 0;
     width: 100%;
 }
+
 
 .pimg {
     padding-bottom: 20px;
@@ -71,4 +70,4 @@ h1 {
 #selfie {
     height: 200px;
     width: 200px;
-}
+}  
